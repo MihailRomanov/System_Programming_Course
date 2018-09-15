@@ -4,4 +4,4 @@
 Ижевского Государственного Технического Университета
 
 На текущий момент доступны:
-* [Слайды к лекциям](/MihailRomanov/System_Programming_Course/tree/master/Slides)
+* [Слайды к лекциям](/Slides)
