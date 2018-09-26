@@ -1,0 +1,6 @@
+package "test"
+version "1.0"
+
+
+option "wait" w "wait close" flag off
+option "count" c "cout" int
