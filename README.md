@@ -13,6 +13,7 @@
 |Files|[Files](/Slides/04_Files.pptx?raw=true)|[Files](/Samples/04_Files)|
 |Basic IPC|[IPC](/Slides/05_Basic_IPC.pptx?raw=true)|[IPC](/Samples/05_IPC)|
 |Threads|[Threads](/Slides/06_Threads.pptx?raw=true)|[Threads](/Samples/06_Threads)|
+|Base Libraries|[C Standard Library](/Slides/07_Base_Libraries.pptx?raw=true)|[C Standard Library](/Samples/07_BaseLibraries)|
 
 ## Сроки выполнения заданий
 

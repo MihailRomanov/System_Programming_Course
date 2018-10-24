@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <ItemsProjectGuid>{2b525fd5-56f9-4d34-bd71-e12d299f6da3}</ItemsProjectGuid>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);$(MSBuildThisFileDirectory)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SourceItemsFromImports" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)locale_info.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)string_declaration.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)string_conversions.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)string_operations.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)time_operations.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)samples.h" />
+  </ItemGroup>
+</Project>
