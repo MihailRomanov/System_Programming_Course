@@ -14,6 +14,7 @@
 |Basic IPC|[IPC](/Slides/05_Basic_IPC.pptx?raw=true)|[IPC](/Samples/05_IPC)|
 |Threads|[Threads](/Slides/06_Threads.pptx?raw=true)|[Threads](/Samples/06_Threads)|
 |Base Libraries|[C Standard Library](/Slides/07_Base_Libraries.pptx?raw=true)|[C Standard Library](/Samples/07_BaseLibraries)|
+|Memory management|[Base memory management](/Slides/08_Base_memory_management.pptx?raw=true)|[Base memory management](/Samples/08_Base_memory_management)
 
 ## Сроки выполнения заданий
 
