@@ -15,7 +15,7 @@
 |Threads|[Threads](/Slides/06_Threads.pptx?raw=true)|[Threads](/Samples/06_Threads)|
 |Base Libraries|[C Standard Library](/Slides/07_Base_Libraries.pptx?raw=true)|[C Standard Library](/Samples/07_BaseLibraries)|
 |Memory management|[Base memory management](/Slides/08_Base_memory_management.pptx?raw=true)|[Base memory management](/Samples/08_Base_memory_management)|
-|Synchronization|[Synchronization](/Slides/09_Synchronization.pptx)|-|
+|Synchronization|[Synchronization](/Slides/09_Synchronization.pptx?raw=true)|-|
 
 ## Сроки выполнения заданий
 
