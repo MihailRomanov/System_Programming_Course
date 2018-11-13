@@ -16,6 +16,7 @@
 |Base Libraries|[C Standard Library](/Slides/07_Base_Libraries.pptx?raw=true)|[C Standard Library](/Samples/07_BaseLibraries)|
 |Memory management|[Base memory management](/Slides/08_Base_memory_management.pptx?raw=true)|[Base memory management](/Samples/08_Base_memory_management)|
 |Synchronization|[Synchronization](/Slides/09_Synchronization.pptx?raw=true)|-|
+|Windows Services|[Windows Services](/Slides/10_Windows_Services.pptx?raw=true)|[[Services and daemons](/Samples/10_Services_and_daemons)|
 
 ## Сроки выполнения заданий
 
