@@ -27,4 +27,4 @@
 |[Task #1](/Tasks/Task1.md)|07.10.2018|
 |[Task #2](/Tasks/Task2.md)|22.10.2018|
 |[Task #3](/Tasks/Task3.md)|04.11.2018|
-
+|[Lab #1](/Tasks/Lab1.md)|17.12.2018|
